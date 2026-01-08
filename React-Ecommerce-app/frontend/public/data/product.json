@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "name": "Nike Phantom GX Elite",
+    "brand": "Nike",
+    "price": 8999,
+    "size": ["7", "8", "9", "10"],
+    "image_url": "./data/PHANTOM+GX+ELITE+FG.jpg",
+    "description": "Engineered for precision and control on firm ground pitches."
+  },
+  {
+    "id": 2,
+    "name": "Adidas Predator Accuracy FG",
+    "brand": "Adidas",
+    "price": 8499,
+    "size": ["6", "7", "8", "9"],
+    "image_url": "./data/Adidas Predator Accuracy+ FG.jpg",
+    "description": "Designed for ultimate ball control and power with grippy upper zones."
+  },
+  {
+    "id": 3,
+    "name": "Puma Future Ultimate FG/AG",
+    "brand": "Puma",
+    "price": 7999,
+    "size": ["7", "8", "9", "10", "11"],
+    "image_url": "./data/Puma Future Ultimate.jpg",
+    "description": "Lightweight and dynamic for agile playmakers and creative players."
+  },
+  {
+    "id": 4,
+    "name": "Nike Mercurial Superfly 9",
+    "brand": "Nike",
+    "price": 9999,
+    "size": ["6", "7", "8", "9", "10"],
+    "image_url": "./data/Nike Mercurial Superfly.jpg",
+    "description": "Ultra-light design for explosive speed and precision acceleration."
+  },
+  {
+    "id": 5,
+    "name": "Adidas X Crazyfast.1",
+    "brand": "Adidas",
+    "price": 8799,
+    "size": ["6", "7", "8", "9", "10"],
+    "image_url": "./data/Adidas X Crazyfast.1.jpg",
+    "description": "Built for top speed and lightweight comfort on firm ground."
+  },
+  {
+    "id": 6,
+    "name": "Puma Ultra Match FG/AG",
+    "brand": "Puma",
+    "price": 7299,
+    "size": ["7", "8", "9", "10"],
+    "image_url": "./data/Puma Ultra Match.jpeg",
+    "description": "Speed-focused boots crafted for ultimate acceleration."
+  },
+  {
+    "id": 7,
+    "name": "New Balance Furon v7 Pro",
+    "brand": "New Balance",
+    "price": 8199,
+    "size": ["6", "7", "8", "9", "10"],
+    "image_url": "./data/New Balance Furon v7 Pro.jpg",
+    "description": "Designed for attacking players who thrive on explosive power."
+  },
+  {
+    "id": 8,
+    "name": "Nike Tiempo Legend 10 Elite",
+    "brand": "Nike",
+    "price": 9499,
+    "size": ["7", "8", "9", "10", "11"],
+    "image_url": "./data/Nike Tiempo Legend 10 Elite.jpeg",
+    "description": "Classic leather comfort meets modern performance and grip."
+  },
+  {
+    "id": 9,
+    "name": "Adidas Copa Pure II",
+    "brand": "Adidas",
+    "price": 7699,
+    "size": ["6", "7", "8", "9", "10", "11"],
+    "image_url": "./data/Adidas Copa Pure II.jpg",
+    "description": "Premium leather feel offering touch and precision on every strike."
+  },
+  {
+    "id": 10,
+    "name": "Puma King Ultimate",
+    "brand": "Puma",
+    "price": 8999,
+    "size": ["7", "8", "9", "10"],
+    "image_url": "./data/Puma King Ultimate.jpg",
+    "description": "Iconic boot re-engineered for comfort, control, and performance."
+  },
+  {
+    "id": 11,
+    "name": "Umbro Velocita Alchemist Pro",
+    "brand": "Umbro",
+    "price": 7499,
+    "size": ["6", "7", "8", "9", "10"],
+    "image_url": "./data/Umbro Velocita Alchemist Pro.jpg",
+    "description": "Made for players who combine agility with precision movement."
+  },
+  {
+    "id": 12,
+    "name": "Mizuno Morelia Neo III",
+    "brand": "Mizuno",
+    "price": 9999,
+    "size": ["7", "8", "9", "10", "11"],
+    "image_url": "./data/Mizuno Morelia Neo III.jpg",
+    "description": "Handcrafted Japanese quality with lightweight K-leather upper."
+  },
+  {
+    "id": 13,
+    "name": "Nike Phantom Luna II",
+    "brand": "Nike",
+    "price": 9299,
+    "size": ["5", "6", "7", "8", "9"],
+    "image_url": "./data/Nike Phantom Luna II.jpg",
+    "description": "Tailored fit for enhanced touch and precision for agile players."
+  },
+  {
+    "id": 14,
+    "name": "Adidas Predator Edge.1",
+    "brand": "Adidas",
+    "price": 8799,
+    "size": ["6", "7", "8", "9", "10"],
+    "image_url": "./data/Adidas Predator Edge.1.jpg",
+    "description": "Enhanced power zones designed for maximum curve and accuracy."
+  },
+  {
+    "id": 15,
+    "name": "Puma Future Z 1.4",
+    "brand": "Puma",
+    "price": 8299,
+    "size": ["7", "8", "9", "10"],
+    "image_url": "./data/Puma Future Z 1.4.jpg",
+    "description": "Dynamic compression band ensures a snug, adaptive fit."
+  },
+  {
+    "id": 16,
+    "name": "Nike Zoom Mercurial Vapor 15",
+    "brand": "Nike",
+    "price": 9499,
+    "size": ["6", "7", "8", "9"],
+    "image_url": "./data/Nike Zoom Mercurial Vapor 15.jpg",
+    "description": "Made for explosive acceleration and precision passing."
+  },
+  {
+    "id": 17,
+    "name": "Adidas X Speedportal",
+    "brand": "Adidas",
+    "price": 8799,
+    "size": ["7", "8", "9", "10"],
+    "image_url": "./data/Adidas X Speedportal.jpg",
+    "description": "Lightweight boot for maximum energy return and top speed."
+  },
+  {
+    "id": 18,
+    "name": "Puma Ultra Ultimate FG",
+    "brand": "Puma",
+    "price": 8999,
+    "size": ["6", "7", "8", "9", "10"],
+    "image_url": "./data/Puma Ultra Ultimate FG.jpg",
+    "description": "Ultra-light and comfortable, perfect for fast-paced players."
+  },
+  {
+    "id": 19,
+    "name": "Nike StreetGato Turf",
+    "brand": "Nike",
+    "price": 6999,
+    "size": ["6", "7", "8", "9", "10"],
+    "image_url": "./data/Nike StreetGato Turf.jpg",
+    "description": "For street and turf players — comfort, traction, and control."
+  },
+  {
+    "id": 20,
+    "name": "Adidas Copa Mundial Classic",
+    "brand": "Adidas",
+    "price": 9999,
+    "size": ["7", "8", "9", "10", "11"],
+    "image_url": "./data/Adidas Copa Mundial Classic.jpg",
+    "description": "Iconic leather boot offering timeless style and unmatched touch."
+  }
+]
