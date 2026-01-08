@@ -1,0 +1,87 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+
+
+<header class="head-top">
+  <div class="heading">
+    <!-- <i class="bi bi-truck fs-3 me-3"></i>--> <img src="/Images/Logo.png" alt="Logo" width="75" height="50">
+    <h2>AnyWhereXpress</h2>
+  </div>
+  
+    <!-- <p class="subtitle">
+      Deliver anything to anywhere
+    </p> -->
+    <nav class="nav d-flex">
+    <a class="nav-link active" routerLink="/home">Home</a>
+    <a class="nav-link" routerLink="/order">Book</a>
+    <a class="nav-link" routerLink="/services">Services</a>
+    <a class="nav-link" routerLink="/"><i class="bi bi-box-arrow-right"></i></a>
+  </nav>
+
+    <div class="subtitle">
+    <img src="/Images/A2A-ani.gif" alt="animated-image" width="300" height="200">
+    </div>
+</header>
+<section class="about-section">
+  <div class="container text-center">
+    <h2>About Us</h2>
+    <p class="lead">
+      AnyWhereXpress is your trusted local delivery service.
+      We deliver anything within Vellore and nearby areas including Gudiyattam, Ranipet, and Arani.
+      Our mission is to make deliveries fast, reliable, and hassle-free — whether it’s an urgent document, a forgotten
+      lunch, or a gift. we got your back.
+    </p>
+  </div>
+</section>
+
+<section class="cover-section">
+
+  <div class="cartimg">
+    <img src="/Images/movingcart.png" alt="image" width="350" height="300">
+  </div>
+
+
+  <div class="btn-group-custom">
+
+    <button routerLink="/order" class="btn btn-primary btn-lg w-100"> <router-outlet></router-outlet>
+      Book a Delivery
+    </button>
+
+    <a class="btn btn-success btn-lg w-100"
+      href="https://wa.me/9677199272?text=Hi%2C%20I%20want%20to%20book%20a%20delivery.%0AItem%20Details:%20%0APickup%20Location:%20%0ADrop%20Location:%20"
+      target="_blank">
+      Book via WhatsApp
+    </a>
+
+    <a class="btn btn-dark btn-lg w-100" href="tel:9677199272">
+      Call Now
+    </a>
+
+  </div>
+</section>
+
+
+<div class="contact">
+  <h3>Contact</h3>
+
+  <div class="contact-tele">
+    <i class="bi bi-telephone-fill"></i>
+    <h4>Telephone:</h4> <span style="font-size: 20px;">+91 9677 199 272</span>
+  </div>
+
+  <div class="contact-mail">
+    <i class="bi bi-envelope-at-fill"></i>
+    <h4>Email:</h4> <span style="font-size: 20px;">anywherexpress@gmail.com</span>
+  </div>
+
+</div>
+
+<div class="ai-img">
+  <img src="/Images/ai-delivery.jpg" alt="image" width="360" height="400">
+</div>
+
+<footer>
+  <div class="text-center">
+    <p>&copy; 2025 All rights reserved Prithviraj Enterprises.</p>
+  </div>
+</footer>

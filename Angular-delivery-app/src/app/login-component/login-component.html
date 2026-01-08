@@ -1,0 +1,49 @@
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.1/font/bootstrap-icons.css">
+
+
+<div class="heading">
+    <img src="/Images/Logo.png" alt="Logo" width="75" height="50"> <h2>AnyWhereXpress</h2>
+</div>
+<!-- <div class="transition"></div> -->
+<div class="body-content">
+    <div class="container">
+        <div class="cover">
+            <img src="/Images/delivery.jpg" alt="Image">
+            <div class="text">
+                <span class="text-1">Deliver anything from <br> anywhere to anywhere</span>
+                <span class="text-2">Let's get delivered</span>
+            </div>
+        </div>
+        <!-- login form code -->
+        <div class="form">
+            <div class="form-content">
+                <div class="login-form">
+                    <div class="title">Login</div>
+                    <form>
+                        <div class="input-area">
+                            <div class="input-box">
+                                <i class="fa fa-envelope"></i>
+                                <input type="email"  [(ngModel)]="email"  name="email" placeholder="Enter your email" required>
+                            </div>
+                            <div class="input-box">
+                                <i class="fa fa-lock"></i>
+                                <input type="password" [(ngModel)]="password" name="password" placeholder="Enter your password" required>
+                            </div>
+                            <div class="text"><a href="#">Forget Password?</a></div>
+                            <button (click)="loginvalidation()">Submit</button>
+                            <div class="text sign-text">Don't have an account? <a routerLink="/register">Signup</a>
+                            </div>
+                            <router-outlet></router-outlet>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<footer>
+    <div>
+        <p>&copy; 2025 All rights reserved Prithviraj Enterprises.</p>
+    </div>
+</footer>

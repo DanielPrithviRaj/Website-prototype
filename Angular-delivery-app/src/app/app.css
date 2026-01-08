@@ -1,0 +1,15 @@
+h2{
+    display: flex;
+    justify-content: center;
+}
+
+.links{
+    display: flex;
+    gap: 10px;
+    margin: 0 0 0px 10px;
+    font-size: 20px;
+}
+
+.head{
+  background-color: #f16581;  
+}
